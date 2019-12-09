@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemoAppV3b</string>
+    <string name="btArribaTxt">0</string>
+    <string name="btCentralTxt">1</string>
+    <string name="btAbajoTxt">2</string>
+    <string name="btBluetooth">Conexión Tapete</string>
+    <string name="BTDeviceListTitle">Selecione el dispositivo Bluetooth a conectar</string>
+</resources>
